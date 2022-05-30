@@ -1,13 +1,12 @@
 # Hi there, I'm Saqlain Nawaz 👋 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student of Computer Science
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate with other Professionals
+- 🥅 2022 Goals: to become a good student
+- ⚡ Fun fact: I love to draw and play Chess
 
 ### Connect with me:
 
@@ -54,7 +53,7 @@
   <img align="left" alt="The-SaqlainNawaz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=The-SaqlainNawaz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
+[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
