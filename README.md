@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Enjoying **Summer Vacations**
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **MySQL**
 
 - 👯 I’m looking to collaborate with **other professionals**
 
