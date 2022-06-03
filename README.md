@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saqlain Nawaz</h1>
 <h3 align="center">I am currently a Student of Computer Science at University of Engineering Lahore</h3>
 
-- 🔭 I’m currently Enjoying **Summer Vacations**
+- 🔭 I’m currently **Focusing**
 
 - 🌱 I’m currently learning **MySQL**
 
