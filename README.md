@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **Focusing**
 
-- 🌱 I’m currently learning **MEAN STACK**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate with **other professionals**
 
