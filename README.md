@@ -3,7 +3,7 @@
 
 - 🔭 I’m **Focusing**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate with **other professionals**
 
