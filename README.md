@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **other professionals**
 
-- 📫 How to reach me **saqlain32nawaz@gmail.com**
+- 📫 How to reach me **devsaqlainnawaz@gmail.com**
 
 - ⚡ Fun fact **I really enjoy doing coding**
 
