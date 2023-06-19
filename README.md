@@ -3,7 +3,7 @@
 
 - 🔭 I’m **Focusing**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **T3 Stack and Unity3D**
 
 - 👯 I’m looking to collaborate with **other professionals**
 
