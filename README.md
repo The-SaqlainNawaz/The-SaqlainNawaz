@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saqlain Nawaz</h1>
 <h3 align="center">I am a Student of Computer Science at the University of Engineering and Technology Lahore</h3>
 
-- 🔭 I’m **Focusing**
+- 🔭 I’m **Focusing on becoming software engineer**
 
 - 🌱 I’m currently learning **T3 Stack and Unity3D**
 
