@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **T3 Stack and Unity3D**
 
-- 👯 I’m looking to collaborate with **other professionals**
+- 👯 I’m looking to collaborate with **other developers**
 
 - 📫 How to reach me **devsaqlainnawaz@gmail.com**
 
